@@ -7,7 +7,7 @@ The final version of the music player project from the electron course
 
 ## install and Usage
 
-    git clone https://github.com/ssshojaei/khonya_electron
+    git clone https://github.com/Real-Adrian/Music-Player-IR-
     cd khonya_electron
     npm install
     npm start
