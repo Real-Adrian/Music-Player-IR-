@@ -1,0 +1,23 @@
+{
+  "name": "music_player",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "electron": "^9.1.2",
+    "electron-window-state": "^5.0.3",
+    "jquery": "^3.5.1",
+    "jsmediatags": "^3.9.3",
+    "vazir-font": "^26.0.2"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.14.0"
+  }
+}
