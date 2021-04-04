@@ -1,4 +1,4 @@
-# Mx_electron
+# Music Player_electron
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/BatgPhXOq-8/0.jpg)](http://www.youtube.com/watch?v=BatgPhXOq-8 'Khonya Player Demo')
 
